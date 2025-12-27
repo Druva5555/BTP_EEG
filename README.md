@@ -121,23 +121,24 @@ problem.
 
 ## 📁 Repository Contents
 
-├── BTP-ProjectCode-Final-report.pdf
-├── BTP-ProjectCode-Final-slides.pdf
-└── README.md
+-BTP-ProjectCode-Final-report.pdf
+
+-BTP-ProjectCode-Final-slides.pdf
+
+-README.md
 
 ---
 
 
 > Note: The source code is not included in this repository.
-> This repository serves as a documentation and results archive for the project.
 
 ---
 
 ## 👥 Team Members
 
-- **Druva Sai** (S20220010222)  
-- **Surya Sujit** (S20220010217)  
-- **Abhinash** (S20220010221)  
+- **Druva Sai**   
+- **Surya Sujit**   
+- **Abhinash**   
 
 ---
 
